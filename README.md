@@ -1,5 +1,11 @@
 # portfolio
 
+## Techstack
+```
+VueJS  
+Firebase
+```
+
 ## Project setup
 ```
 npm install
